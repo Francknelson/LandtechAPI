@@ -1,0 +1,1 @@
+json.partial! "authentication_controllers/authentication_controller", authentication_controller: @authentication_controller
